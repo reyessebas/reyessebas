@@ -47,7 +47,6 @@
     </a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva logo"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello logo"/>
 </p>
 
-<br>
 ## 📊 GitHub Stats
 
 <table>
